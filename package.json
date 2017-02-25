@@ -1,0 +1,24 @@
+{
+  "name": "nodejs_demo1",
+  "version": "1.0.0",
+  "description": "nodejs_demo1 for demo1",
+  "main": "entryp",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Zittt/nodejs_demo.git"
+  },
+  "dependencies": {
+    "express": "^4.14.1",
+    "mysql": "^2.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "demo"
+  ],
+  "author": "willer",
+  "license": "ISC"
+}
